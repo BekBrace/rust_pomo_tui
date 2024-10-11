@@ -5,11 +5,8 @@ Pomodoro TUI Application: A Pomodoro timer written in Rust using the Cursive lib
 Repository Structure
 ```bash
 rust_pomo_tui/
-
 ├── cursive/       # Cursive crash course demonstrating simple TUI elements
-
 ├── pomo-tui/      # Pomodoro timer TUI application
-
 └── README.md      # Project documentation
 ```
 
