@@ -35,6 +35,8 @@ This will launch a simple terminal interface showcasing various elements like di
 
 # Part 2: Pomodoro TUI Application
 
+![image](https://github.com/user-attachments/assets/d340a774-2235-41cc-879f-70fb61e536bf)
+
 The pomo-tui/ folder contains a Pomodoro timer application built using the Cursive library, along with Rust’s Arc and Mutex for handling concurrency in the timer.
 
 ## Features:
